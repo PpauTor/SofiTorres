@@ -1,7 +1,7 @@
 # **Mumú**
-### Ropa para bebés 👶
+### *Ropa para bebés 👶*
 
-Encontra aqui el mejor regalo para los bebés de tu familia 💟
+>Encontra aqui el mejor regalo para los bebés de tu familia 💟
 
 Abarcamos talles desde RN a 24 meses.
 
