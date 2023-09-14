@@ -14,4 +14,15 @@ Abarcamos talles desde RN a 24 meses.
 
 
 
+## Paleta de colores. ##
+
+`#CEE5F2`
+`#ACCBE1`
+`#7C98B3`
+`#637081`
+`#536B78`
+
+
+
+
 
