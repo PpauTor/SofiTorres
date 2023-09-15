@@ -14,16 +14,10 @@ Abarcamos talles desde RN a 24 meses.
 
 
 
-## Paleta de colores. ##
+Paleta de colores
+![](https://github.com/PpauTor/Torres-Mumu/blob/main/Paleta%20color.png2.png?raw=true)
 
-
-`#CEE5F2`
-`#ACCBE1`
-`#7C98B3`
-`#637081`
-`#536B78`
-
-## Tipografia ##
+Fuente: 
 Didact Gothic.
 
 
