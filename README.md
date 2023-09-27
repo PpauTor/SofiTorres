@@ -20,7 +20,8 @@ Paleta de colores
 Fuente: 
 Didact Gothic.
 
-
+Figma:
+[Diseño](https://www.figma.com/file/jZj79nXJJ0Sg5aGwtIeBiq/Untitled?type=design&node-id=0-1&mode=design&t=uGnG97BICmTbDxp1-0)
 
 
 
